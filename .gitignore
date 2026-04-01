@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# Local datasets / outputs / logs
+data/
+results/
+logs/
+
+# Reference repos and nested git content
+refs/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Editor / OS noise
+.vscode/
+.DS_Store
